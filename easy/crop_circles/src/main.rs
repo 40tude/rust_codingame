@@ -65,6 +65,7 @@ fn get_input_reader() -> Box<dyn BufRead> {
 }
 
 fn main() {
+    // Test 2
     let mut reader = get_input_reader();
     let mut line = String::new();
 
