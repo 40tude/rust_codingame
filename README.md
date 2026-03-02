@@ -1,15 +1,3 @@
-## Notes
-* Install LLDB extension
-* Debug config with LLDB
-    * `tasks.json` no longer needed
-* `cargo build -p crop_circles`
-* `cargo run -p crop_circles`
-* `cargo build --release -p crop_circles`
-* workspace root's manifest 
-    * `Cargo.toml` under root
-    * See `resolver`
-
-
 
 ## About contributions
 This project is developed for personal and educational purposes. Feel free to explore and use it to enhance your own learning in Rust and algorithm.

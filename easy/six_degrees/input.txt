@@ -1,0 +1,38 @@
+Parnell Lewis
+10
+Mr. 3000: Bernie Mac, Angela Bassett, Brian J. White, Chris Noth, Tony Lee Gratz
+Wasted: David Kopriva, Alex Wilder, A.J. Laird, Oliver Grant, Natalie Matthai, Michael Oilar
+My One and Only: Renée Zellweger, Logan Lerman, Kevin Bacon, Chris Noth
+Slice: Asha Coy, Francis Faye, David Kopriva, Barrett Lione-Seaton
+Chained to a Cowboy: Monty Kane, Tyree Jensen, Tony Lee Gratz, Michael Oilar
+True to Form: Parnell Lewis, Kelly Higgs, Asha Coy, Kiera Knightley
+Cop Car: Kevin Bacon, James Freedson-Jackson, Hays Wellford, Shea Whigham
+Apollo 13: Tom Hanks, Bill Paxton, Kevin Bacon, Gary Sinise
+Crazy, Stupid, Love.: Steve Carell, Ryan Gosling, Julianne Moore, Emma Stone, Kevin Bacon
+The Notebook: Rachel McAdams, Ryan Gosling, James Garner, Gena Rowlands
+ans = 6
+
+
+Shane Carruth
+5
+Swiss Army Man: Paul Dano, Daniel Radcliffe, Mary Elizabeth Winstead, Antonia Ribero, Shane Carruth
+Grindhouse: Kurt Russell, Zoë Bell, Rosario Dawson, Vanessa Ferlito, Sydney Tamiia Poitier, Tracie Thoms, Rose McGowan, Mary Elizabeth Winstead, Tom Savini
+Friday the 13th: Betsy Palmer, Adrienne King, Jeannine Taylor, Robbi Morgan, Kevin Bacon, Tom Savini
+Stir of Echoes: Kevin Bacon, Zachary David Cope, Kathryn Erbe, Illeana Douglas
+Frost/Nixon: Frank Langella, Michael Sheen, Kevin Bacon, Sam Rockwell
+ans = 3
+
+
+Elvis Presley
+3
+Change of Habit: Elvis Presley, Mary Tyler Moore, Barbara McNair, Jane Elliot, Ed Asner
+JFK: Kevin Costner, Kevin Bacon, Tommy Lee Jones, Laurie Metcalf, Gary Oldman, Ed Asner
+Sleepers: Kevin Bacon, Jason Patric, Brad Pitt, Robert De Niro, Dustin Hoffman
+ans = 2
+
+
+
+
+
+
+
